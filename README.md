@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Transportsimple - Trip Planner
 
 A modern web application built with Angular that helps users plan and visualize their travel routes.
@@ -129,3 +130,7 @@ For more information on using the Angular CLI, including detailed command refere
 ## License
 
 MIT License
+=======
+# transportsimple
+A modern web application built with Angular that helps users plan and visualize their travel routes.
+>>>>>>> 37f0e377fde01916ccb1ca6c7f937f39bf8dd337
